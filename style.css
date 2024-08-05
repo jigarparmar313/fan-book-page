@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+  margin-bottom: 20px;
+}
+
+p {
+  line-height: 1.6;
+}
+
+footer p {
+  margin: 0;
+}
+
+#entries .entry {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
